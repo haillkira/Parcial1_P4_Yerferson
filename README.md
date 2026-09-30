@@ -1,4 +1,3 @@
-# Informacion del estudiante
 
  **Nombre:** YERFERSON ROSARIO PEÑA
  **Matricula:** 100444062
