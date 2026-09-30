@@ -1,0 +1,6 @@
+@Parcial1_P4_Yerferson_HostAddress = http://localhost:5041
+
+GET {{Parcial1_P4_Yerferson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
