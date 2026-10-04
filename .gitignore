@@ -480,3 +480,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+# Base de datos local generada al ejecutar la API
+numbers.db
+numbers.db-shm
+numbers.db-wal
+numbers.db-journal
