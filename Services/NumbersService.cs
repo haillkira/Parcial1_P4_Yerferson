@@ -86,7 +86,7 @@ public class NumbersService(IConfiguration configuration)
     private static NumberRecord ToRecord(NumberRow row) =>
         new(checked((int)row.Id), row.Fecha, row.Numero, row.Resultado);
 
-    private sealed class NumberRow
+    private sealed class NumberRow()
     {
         public long Id { get; set; }
         public DateTime Fecha { get; set; }
